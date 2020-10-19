@@ -19,11 +19,13 @@
 header {
     height: 110px; /* 60px */
     line-height: 60px;
-    border-bottom: 1px solid #ddd;  /* 1px solid #ddd */
+    border-bottom: 5px ridge rgb(236, 22, 22);  /* 1px solid #ddd */
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
-    color: rgb(255, 0, 0);
+    color: rgb(236, 22, 22);
+    font-weight: 100; 
+    font-variant-position: normal;
 }
 
 .option {
